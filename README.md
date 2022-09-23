@@ -2,7 +2,8 @@
 Ejercicio de programación en Java
 
 
-Incluir las siguientes partes de tu proyecto web...
+Incluir las siguientes partes de tu proyecto web...  
+
 -Nombre del equipo (define el nombre de tu preferencia)
 -El nombre de la aplicación web o website
 -Descripción generaldel equipo: nombres, usuario github, rol (como ejemplo, ya que todos deben involucrarse en el proyecto completo)
